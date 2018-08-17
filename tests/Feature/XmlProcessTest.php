@@ -14,9 +14,9 @@ class XmlProcessTest extends TestCase
 
         $reader->process(function () use (&$timesCalled) {
             $timesCalled++;
-        }, 5);
+        }, 2);
 
-        $this->assertEquals(5, $timesCalled);
+        $this->assertEquals(2, $timesCalled);
     }
 
     public function testCyclesThroughUniqueNodes()
@@ -89,7 +89,7 @@ virgin preventions half logotype weapons granted factious already carved fretted
             $timesCalled++;
         });
 
-        $this->assertEquals(49256, $timesCalled);
+        $this->assertEquals(4, $timesCalled);
     }
 
     protected function openXmlFile()
