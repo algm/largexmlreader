@@ -1,37 +1,31 @@
 {
-  "name": "algm/largexmlreader",
-  "description": "Read and process HUGE xml files",
-  "type": "library",
-  "license": "MIT",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/algm/xml-to-array.git"
+    "name": "algm/largexmlreader",
+    "description": "Read and process HUGE xml files",
+    "type": "library",
+    "license": "MIT",
+    "repositories": [],
+    "authors": [
+        {
+            "name": "Antonio Gázquez",
+            "email": "algm85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.0.0",
+        "ext-xml": "*",
+        "prewk/xml-string-streamer": "^0.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Algm\\LargeXmlReader\\": "src",
+            "Algm\\LargeXmlReader\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "edgedesign/phpqa": "^1.19",
+        "phpunit/phpunit": "^6.5",
+        "mockery/mockery": "^1.1"
     }
-  ],
-  "authors": [
-    {
-      "name": "Antonio Gázquez",
-      "email": "algm85@gmail.com"
-    }
-  ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.0.0",
-    "ext-xml": "*",
-    "prewk/xml-string-streamer": "^0.11.0",
-    "vyuldashev/xml-to-array": "dev-master"
-  },
-  "autoload": {
-    "psr-4": {
-      "Algm\\LargeXmlReader\\": "src",
-      "Algm\\LargeXmlReader\\Tests\\": "tests"
-    }
-  },
-  "require-dev": {
-    "edgedesign/phpqa": "^1.19",
-    "phpunit/phpunit": "^6.5",
-    "mockery/mockery": "^1.1"
-  }
 }

@@ -4,7 +4,6 @@ namespace Algm\LargeXmlReader\Xml;
 
 use Exception;
 use Prewk\XmlStringStreamer;
-use Vyuldashev\XmlToArray\XmlToArray;
 
 class Reader
 {
@@ -83,7 +82,7 @@ class Reader
         $read = 0;
         while ($node = $this->xml->getNode()) {
             $xmlElement = simplexml_load_string($node);
-            $data = XmlToArray::convert($xmlElement->asXml());
+            $data = json_decode(json_encode((array) $xmlElement), 1);
             $callback($data);
             $read++;
 

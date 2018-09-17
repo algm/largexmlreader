@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "11fa1bd7a67038088b1de515b90fdbce",
+    "content-hash": "a51112ba123d223ab3ba26dffd80d3cb",
     "packages": [
         {
             "name": "prewk/xml-string-streamer",
@@ -47,54 +47,6 @@
             "description": "Stream large XML files with low memory consumption",
             "homepage": "https://github.com/prewk/xml-string-streamer",
             "time": "2017-10-03T21:15:29+00:00"
-        },
-        {
-            "name": "vyuldashev/xml-to-array",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/algm/xml-to-array.git",
-                "reference": "e323841cd488572a4350b96d1e3c860295f8172a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/algm/xml-to-array/zipball/e323841cd488572a4350b96d1e3c860295f8172a",
-                "reference": "e323841cd488572a4350b96d1e3c860295f8172a",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=7.0"
-            },
-            "require-dev": {
-                "larapack/dd": "^1.1",
-                "phpunit/phpunit": "^6.5",
-                "spatie/array-to-xml": "^2.7"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Vyuldashev\\XmlToArray\\": "src"
-                }
-            },
-            "autoload-dev": {
-                "psr-4": {
-                    "Vyuldashev\\XmlToArray\\Test\\": "tests"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Vladimir Yuldashev",
-                    "email": "misterio92@gmail.com"
-                }
-            ],
-            "description": "Convert xml to an array",
-            "support": {
-                "source": "https://github.com/algm/xml-to-array/tree/master"
-            },
-            "time": "2018-08-17T10:48:05+00:00"
         }
     ],
     "packages-dev": [
@@ -3493,6 +3445,54 @@
             "time": "2018-07-13T07:18:09+00:00"
         },
         {
+            "name": "vyuldashev/xml-to-array",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vyuldashev/xml-to-array.git",
+                "reference": "e323841cd488572a4350b96d1e3c860295f8172a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vyuldashev/xml-to-array/zipball/e323841cd488572a4350b96d1e3c860295f8172a",
+                "reference": "e323841cd488572a4350b96d1e3c860295f8172a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "larapack/dd": "^1.1",
+                "phpunit/phpunit": "^6.5",
+                "spatie/array-to-xml": "^2.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vyuldashev\\XmlToArray\\": "src"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Vyuldashev\\XmlToArray\\Test\\": "tests"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vladimir Yuldashev",
+                    "email": "misterio92@gmail.com"
+                }
+            ],
+            "description": "Convert xml to an array",
+            "support": {
+                "source": "https://github.com/algm/xml-to-array/tree/master"
+            },
+            "time": "2018-08-17T10:48:05+00:00"
+        },
+        {
             "name": "webmozart/assert",
             "version": "1.3.0",
             "source": {
@@ -3545,9 +3545,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "vyuldashev/xml-to-array": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
