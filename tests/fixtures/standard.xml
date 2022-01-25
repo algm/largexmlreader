@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://files.shopgate.com/xml/xsd/catalog/products.xsd">
+    <item uid="135" last_update="2014-08-08T09:49:39+0000">
+        <name><![CDATA[Anashria Womens Premier Leather Sandal]]></name>
+        <tax_percent>0</tax_percent>
+        <tax_class>2</tax_class>
+        <currency>USD</currency>
+        <description>
+            <![CDATA[Buckle embellished contrasting straps adorn both the heel and canvas covered wedge of this t-strap sandal to make it a truly unique addition to your wardrobe]]></description>
+        <deeplink><![CDATA[http://mage17.local/anashria-womens-premier-leather-sandal.html]]></deeplink>
+        <promotion sort_order=""/>
+        <internal_order_info>
+            <![CDATA[{"store_view_id":"1","product_id":"135","item_type":"configurable","exchange_rate":1}]]></internal_order_info>
+        <age_rating/>
+        <weight unit="g">2.0000</weight>
+        <prices type="gross">
+            <price>41.9500</price>
+            <cost>10.0000</cost>
+            <sale_price>41.95</sale_price>
+            <msrp/>
+            <minimum_order_amount/>
+            <tier_prices>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="0">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="1">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="2">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="3">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="4">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="0">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="1">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="2">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="3">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="4">16.95
+                </tier_price>
+            </tier_prices>
+        </prices>
+        <images>
+            <image sort_order="-1">
+                <url>
+                    <![CDATA[http://mage17.local/media/catalog/product/a/n/anashria-womens-premier-leather-sandal-1.jpg]]></url>
+                <title/>
+                <alt/>
+            </image>
+            <image sort_order="2">
+                <url>
+                    <![CDATA[http://mage17.local/media/catalog/product/a/n/anashria-womens-premier-leather-sandal-2.jpg]]></url>
+                <title/>
+                <alt/>
+            </image>
+        </images>
+        <categories>
+            <category uid="17" sort_order="1">
+                <paths/>
+            </category>
+            <category uid="5" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="18" sort_order="0">
+                <paths/>
+            </category>
+        </categories>
+        <shipping>
+            <costs_per_order/>
+            <additional_costs_per_unit/>
+            <is_free/>
+        </shipping>
+        <manufacturer uid="102">
+            <title><![CDATA[Anashria]]></title>
+            <item_number/>
+        </manufacturer>
+        <visibility level="catalog_and_search" marketplace="1"/>
+        <properties>
+            <property uid="492">
+                <label><![CDATA[In Depth]]></label>
+                <value><![CDATA[<ul>
+<ul class="disc">
+<li>Womens Style <br></li>
+<li>Genuine Top Grain Premier Leather <br></li>
+<li>Rich Color Tones <br></li>
+<li>Straps lined with 2000 lb test nylon <br></li>
+<li>Guaranteed for the Life of the Sole - Non-slip sole<br></li>
+</ul>]]></value>
+            </property>
+        </properties>
+        <stock>
+            <is_saleable>1</is_saleable>
+            <backorders>0</backorders>
+            <use_stock>1</use_stock>
+            <stock_quantity>4675</stock_quantity>
+            <minimum_order_quantity>1</minimum_order_quantity>
+            <maximum_order_quantity>10000</maximum_order_quantity>
+            <availability_text><![CDATA[In stock]]></availability_text>
+        </stock>
+        <identifiers>
+            <identifier type="SKU"><![CDATA[ana]]></identifier>
+        </identifiers>
+        <tags>
+            <tag><![CDATA[womens]]></tag>
+            <tag><![CDATA[sandal]]></tag>
+            <tag><![CDATA[leather]]></tag>
+            <tag><![CDATA[anashria]]></tag>
+        </tags>
+        <relations>
+            <relation type="upsell">
+                <uid>83</uid>
+            </relation>
+        </relations>
+        <attribute_groups>
+            <attribute_group uid="502"><![CDATA[Shoe Size]]></attribute_group>
+        </attribute_groups>
+        <inputs/>
+        <display_type>select</display_type>
+    </item>
+    <item uid="163" last_update="2008-07-29T01:33:10+0000">
+        <name><![CDATA[Computer]]></name>
+        <tax_percent>0</tax_percent>
+        <tax_class>0</tax_class>
+        <currency>USD</currency>
+        <description><![CDATA[Make a computer]]></description>
+        <deeplink><![CDATA[http://mage17.local/computer.html]]></deeplink>
+        <promotion sort_order=""/>
+        <internal_order_info>
+            <![CDATA[{"store_view_id":"1","product_id":"163","item_type":"bundle","exchange_rate":1}]]></internal_order_info>
+        <age_rating/>
+        <weight unit="g">0</weight>
+        <prices type="gross">
+            <price>0</price>
+            <cost/>
+            <sale_price>0</sale_price>
+            <msrp/>
+            <minimum_order_amount/>
+            <tier_prices/>
+        </prices>
+        <images/>
+        <categories>
+            <category uid="15" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="27" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="13" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="13" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="15" sort_order="0">
+                <paths/>
+            </category>
+        </categories>
+        <shipping>
+            <costs_per_order/>
+            <additional_costs_per_unit/>
+            <is_free/>
+        </shipping>
+        <manufacturer>
+            <title/>
+            <item_number/>
+        </manufacturer>
+        <visibility level="catalog_and_search" marketplace="1"/>
+        <properties/>
+        <stock>
+            <is_saleable>1</is_saleable>
+            <backorders>0</backorders>
+            <use_stock>1</use_stock>
+            <stock_quantity>380</stock_quantity>
+            <minimum_order_quantity>1</minimum_order_quantity>
+            <maximum_order_quantity>10000</maximum_order_quantity>
+            <availability_text><![CDATA[In stock]]></availability_text>
+        </stock>
+        <identifiers>
+            <identifier type="SKU"><![CDATA[computer]]></identifier>
+        </identifiers>
+        <tags/>
+        <relations/>
+        <attribute_groups/>
+        <inputs>
+            <input uid="10" type="radio" required="1">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="9" type="radio" required="1">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="8" type="radio" required="1">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="7" type="radio" required="1">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="16">
+                        <label><![CDATA[Seagate 250GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="17">
+                        <label><![CDATA[Western Digital 500GB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="6" type="radio" required="0">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="16">
+                        <label><![CDATA[Seagate 250GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="17">
+                        <label><![CDATA[Western Digital 500GB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="368.59" uid="14">
+                        <label><![CDATA[Western Digital - 1TB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="15">
+                        <label><![CDATA[Seagate 500GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="5" type="checkbox" required="0">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="16">
+                        <label><![CDATA[Seagate 250GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="17">
+                        <label><![CDATA[Western Digital 500GB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="368.59" uid="14">
+                        <label><![CDATA[Western Digital - 1TB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="15">
+                        <label><![CDATA[Seagate 500GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="99.99" uid="11">
+                        <label><![CDATA[Microsoft Natural Ergonomic Keyboard 4000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="239.99" uid="12">
+                        <label><![CDATA[Logitech diNovo Edge Keyboard]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="55.42" uid="10">
+                        <label><![CDATA[Microsoft Wireless Optical Mouse 5000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="73.89" uid="13">
+                        <label><![CDATA[Logitech Cordless Optical Trackman]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="4" type="radio" required="0">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="16">
+                        <label><![CDATA[Seagate 250GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="17">
+                        <label><![CDATA[Western Digital 500GB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="368.59" uid="14">
+                        <label><![CDATA[Western Digital - 1TB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="15">
+                        <label><![CDATA[Seagate 500GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="99.99" uid="11">
+                        <label><![CDATA[Microsoft Natural Ergonomic Keyboard 4000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="239.99" uid="12">
+                        <label><![CDATA[Logitech diNovo Edge Keyboard]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="55.42" uid="10">
+                        <label><![CDATA[Microsoft Wireless Optical Mouse 5000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="73.89" uid="13">
+                        <label><![CDATA[Logitech Cordless Optical Trackman]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="699.99" uid="6">
+                        <label><![CDATA[30&quot; Flat-Panel TFT-LCD Cinema HD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="399.99" uid="7">
+                        <label><![CDATA[19&quot; Widescreen Flat-Panel LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="646.64" uid="8">
+                        <label><![CDATA[24&quot; Widescreen Flat-Panel LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="399.99" uid="9">
+                        <label><![CDATA[22&quot; Syncmaster LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+            <input uid="3" type="multiple" required="0">
+                <label/>
+                <info_text/>
+                <options>
+                    <option additional_price="138.57" uid="25">
+                        <label><![CDATA[Apevia Black X-Cruiser Case ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="26">
+                        <label><![CDATA[NZXT Lexa Silver Aluminum ATX Mid-Tower Case (Default)]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="21">
+                        <label><![CDATA[AMD A64 X2 3800+ 2.0GHz OEM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="310.38" uid="22">
+                        <label><![CDATA[AMD Phenom X4 9850 Black Ed. 2.50GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="1893.76" uid="23">
+                        <label><![CDATA[Intel Core 2 Extreme QX9775 3.20GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="24">
+                        <label><![CDATA[Intel C2D E8400 3.0GHz Retail]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="92.37" uid="18">
+                        <label><![CDATA[Crucial 512MB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="139.48" uid="19">
+                        <label><![CDATA[Crucial 1GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="184.75" uid="20">
+                        <label><![CDATA[Crucial 2GB PC4200 DDR2 533MHz Memory]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="91.45" uid="16">
+                        <label><![CDATA[Seagate 250GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="17">
+                        <label><![CDATA[Western Digital 500GB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="368.59" uid="14">
+                        <label><![CDATA[Western Digital - 1TB HD - 7200RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="276.21" uid="15">
+                        <label><![CDATA[Seagate 500GB HD - 5400RPM]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="99.99" uid="11">
+                        <label><![CDATA[Microsoft Natural Ergonomic Keyboard 4000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="239.99" uid="12">
+                        <label><![CDATA[Logitech diNovo Edge Keyboard]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="55.42" uid="10">
+                        <label><![CDATA[Microsoft Wireless Optical Mouse 5000]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="73.89" uid="13">
+                        <label><![CDATA[Logitech Cordless Optical Trackman]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="699.99" uid="6">
+                        <label><![CDATA[30&quot; Flat-Panel TFT-LCD Cinema HD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="399.99" uid="7">
+                        <label><![CDATA[19&quot; Widescreen Flat-Panel LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="646.64" uid="8">
+                        <label><![CDATA[24&quot; Widescreen Flat-Panel LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="399.99" uid="9">
+                        <label><![CDATA[22&quot; Syncmaster LCD Monitor]]></label>
+                        <value/>
+                    </option>
+                    <option additional_price="150" uid="5">
+                        <label><![CDATA[One Year Extended Warranty - Parts and Labor]]></label>
+                        <value/>
+                    </option>
+                </options>
+                <validation type="string"/>
+            </input>
+        </inputs>
+        <display_type>select</display_type>
+    </item>
+    <item uid="167" last_update="2014-08-19T08:23:57+0000">
+        <name><![CDATA[Furniture test]]></name>
+        <tax_percent>0</tax_percent>
+        <tax_class/>
+        <currency>USD</currency>
+        <description><![CDATA[bla bl]]></description>
+        <deeplink><![CDATA[http://mage17.local/furniture-test.html]]></deeplink>
+        <promotion sort_order=""/>
+        <internal_order_info>
+            <![CDATA[{"store_view_id":"1","product_id":"167","item_type":"grouped","exchange_rate":1}]]></internal_order_info>
+        <age_rating/>
+        <weight unit="g"/>
+        <prices type="gross">
+            <price/>
+            <cost/>
+            <sale_price>0</sale_price>
+            <msrp/>
+            <minimum_order_amount/>
+            <tier_prices/>
+        </prices>
+        <images/>
+        <categories>
+            <category uid="10" sort_order="1">
+                <paths/>
+            </category>
+            <category uid="22" sort_order="1">
+                <paths/>
+            </category>
+            <category uid="10" sort_order="0">
+                <paths/>
+            </category>
+        </categories>
+        <shipping>
+            <costs_per_order/>
+            <additional_costs_per_unit/>
+            <is_free/>
+        </shipping>
+        <manufacturer>
+            <title/>
+            <item_number/>
+        </manufacturer>
+        <visibility level="catalog_and_search" marketplace="1"/>
+        <properties/>
+        <stock>
+            <is_saleable>1</is_saleable>
+            <backorders>0</backorders>
+            <use_stock>1</use_stock>
+            <stock_quantity>1662</stock_quantity>
+            <minimum_order_quantity>1</minimum_order_quantity>
+            <maximum_order_quantity>10000</maximum_order_quantity>
+            <availability_text><![CDATA[In stock]]></availability_text>
+        </stock>
+        <identifiers>
+            <identifier type="SKU"><![CDATA[furniture-blue]]></identifier>
+        </identifiers>
+        <tags/>
+        <relations/>
+        <attribute_groups/>
+        <inputs/>
+        <display_type>list</display_type>
+    </item>
+    <item uid="44" last_update="2008-06-24T22:50:46+0000">
+        <name><![CDATA[Canon Digital Rebel XT 8MP Digital SLR Camera]]></name>
+        <tax_percent>0</tax_percent>
+        <tax_class>2</tax_class>
+        <currency>USD</currency>
+        <description>
+            <![CDATA[ Canon EOS Digital Rebel XT SLR adds resolution, speed, extra creative control, and enhanced comfort in the hand to one of the smallest and lightest digital cameras in its class. ]]></description>
+        <deeplink>
+            <![CDATA[http://mage17.local/canon-digital-rebel-xt-8mp-digital-slr-camera-with-ef-s-18-55mm-f3-5-5-6-lens-black.html]]></deeplink>
+        <promotion sort_order=""/>
+        <internal_order_info>
+            <![CDATA[{"store_view_id":"1","product_id":"44","item_type":"simple","exchange_rate":1}]]></internal_order_info>
+        <age_rating/>
+        <weight unit="g">4.0000</weight>
+        <prices type="gross">
+            <price>550.0000</price>
+            <cost>200.0000</cost>
+            <sale_price>550</sale_price>
+            <msrp/>
+            <minimum_order_amount/>
+            <tier_prices>
+                <tier_price threshold="2.0000" type="fixed" customer_group_uid="0">101</tier_price>
+                <tier_price threshold="2.0000" type="fixed" customer_group_uid="1">101</tier_price>
+                <tier_price threshold="2.0000" type="fixed" customer_group_uid="2">101</tier_price>
+                <tier_price threshold="2.0000" type="fixed" customer_group_uid="3">101</tier_price>
+                <tier_price threshold="2.0000" type="fixed" customer_group_uid="4">101</tier_price>
+            </tier_prices>
+        </prices>
+        <images>
+            <image sort_order="-1">
+                <url>
+                    <![CDATA[http://mage17.local/media/catalog/product/c/a/canon-digital-rebel-xt-8mp-digital-slr-camera.jpg]]></url>
+                <title/>
+                <alt/>
+            </image>
+        </images>
+        <categories>
+            <category uid="26" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="13" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="12" sort_order="0">
+                <paths/>
+            </category>
+        </categories>
+        <shipping>
+            <costs_per_order/>
+            <additional_costs_per_unit/>
+            <is_free/>
+        </shipping>
+        <manufacturer uid="34">
+            <title><![CDATA[Canon]]></title>
+            <item_number/>
+        </manufacturer>
+        <visibility level="catalog_and_search" marketplace="1"/>
+        <properties>
+            <property uid="492">
+                <label><![CDATA[In Depth]]></label>
+                <value><![CDATA[<ul>
+<ul class="disc">
+
+<li>8.0-megapixel CMOS sensor captures enough detail for photo-quality 16 x 22-inch prints<br></li>
+<li>Includes Canon's EF-S 18-55mm, f3.5-5.6 zoom lens<br></li>
+<li>DIGIC II Image Processor provides fast, accurate image processing; captures images at a rate of up to 3 frames per second<br></li>
+<li>Fast start-up time--.2 seconds<br></li>
+<li>Powered by rechargeable Lithium-ion battery (included, with charger)</li>
+</ul>
+]]></value>
+            </property>
+        </properties>
+        <stock>
+            <is_saleable>1</is_saleable>
+            <backorders>0</backorders>
+            <use_stock>1</use_stock>
+            <stock_quantity>452</stock_quantity>
+            <minimum_order_quantity>1</minimum_order_quantity>
+            <maximum_order_quantity>10000</maximum_order_quantity>
+            <availability_text><![CDATA[In stock]]></availability_text>
+        </stock>
+        <identifiers>
+            <identifier type="SKU"><![CDATA[Rebel XT]]></identifier>
+        </identifiers>
+        <tags>
+            <tag><![CDATA[canon]]></tag>
+            <tag><![CDATA[slr]]></tag>
+            <tag><![CDATA[camera]]></tag>
+            <tag><![CDATA[8]]></tag>
+            <tag><![CDATA[digital]]></tag>
+        </tags>
+        <relations>
+            <relation type="crosssell">
+                <uid>17</uid>
+                <uid>20</uid>
+                <uid>28</uid>
+            </relation>
+            <relation type="upsell">
+                <uid>46</uid>
+                <uid>47</uid>
+                <uid>48</uid>
+            </relation>
+            <relation type="relation">
+                <uid>132</uid>
+                <uid>133</uid>
+                <uid>134</uid>
+            </relation>
+        </relations>
+        <attribute_groups/>
+        <inputs/>
+        <display_type>simple</display_type>
+    </item>
+</items>

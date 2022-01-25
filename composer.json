@@ -13,19 +13,26 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.0.0",
+        "php": "^7.0|^8.0",
         "ext-xml": "*",
-        "prewk/xml-string-streamer": "^0.11.0"
+        "ext-json": "*",
+        "ext-xmlreader": "*",
+        "ext-simplexml": "*",
+        "ext-libxml": "*",
+        "prewk/xml-string-streamer": "^1.2"
     },
     "autoload": {
         "psr-4": {
-            "Algm\\LargeXmlReader\\": "src",
+            "Algm\\LargeXmlReader\\": "src"
+
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "Algm\\LargeXmlReader\\Tests\\": "tests"
         }
     },
     "require-dev": {
-        "edgedesign/phpqa": "^1.19",
-        "phpunit/phpunit": "^6.5",
-        "mockery/mockery": "^1.1"
+        "phpunit/phpunit": "^9.5"
     }
 }

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://files.shopgate.com/xml/xsd/catalog/products.xsd">
+    <item uid="135" last_update="2014-08-08T09:49:39+0000">
+        <name><![CDATA[Anashria Womens Premier Leather Sandal]]></name>
+        <tax_percent>0</tax_percent>
+        <tax_class>2</tax_class>
+        <currency>USD</currency>
+        <description>
+            <![CDATA[Buckle embellished contrasting straps adorn both the heel and canvas covered wedge of this t-strap sandal to make it a truly unique addition to your wardrobe]]></description>
+        <deeplink><![CDATA[http://mage17.local/anashria-womens-premier-leather-sandal.html]]></deeplink>
+        <promotion sort_order=""/>
+        <internal_order_info>
+            <![CDATA[{"store_view_id":"1","product_id":"135","item_type":"configurable","exchange_rate":1}]]></internal_order_info>
+        <age_rating/>
+        <weight unit="g">2.0000</weight>
+        <prices type="gross">
+            <price>41.9500</price>
+            <cost>10.0000</cost>
+            <sale_price>41.95</sale_price>
+            <msrp/>
+            <minimum_order_amount/>
+            <tier_prices>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="0">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="1">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="2">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="3">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="4.0000" type="fixed" customer_group_uid="4">6.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="0">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="1">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="2">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="3">16.95
+                </tier_price>
+                <tier_price aggregate_children="1" threshold="12.0000" type="fixed" customer_group_uid="4">16.95
+                </tier_price>
+            </tier_prices>
+        </prices>
+        <images>
+            <image sort_order="-1">
+                <url>
+                    <![CDATA[http://mage17.local/media/catalog/product/a/n/anashria-womens-premier-leather-sandal-1.jpg]]></url>
+                <title/>
+                <alt/>
+            </image>
+            <image sort_order="2">
+                <url>
+                    <![CDATA[http://mage17.local/media/catalog/product/a/n/anashria-womens-premier-leather-sandal-2.jpg]]></url>
+                <title/>
+                <alt/>
+            </image>
+        </images>
+        <categories>
+            <category uid="17" sort_order="1">
+                <paths/>
+            </category>
+            <category uid="5" sort_order="0">
+                <paths/>
+            </category>
+            <category uid="18" sort_order="0">
+                <paths/>
+            </category>
+        </categories>
+        <shipping>
+            <costs_per_order/>
+            <additional_costs_per_unit/>
+            <is_free/>
+        </shipping>
+        <manufacturer uid="102">
+            <title><![CDATA[Anashria]]></title>
+            <item_number/>
+        </manufacturer>
+        <visibility level="catalog_and_search" marketplace="1"/>
+        <properties>
+            <property uid="492">
+                <label><![CDATA[In Depth]]></label>
+                <value><![CDATA[<ul>
+<ul class="disc">
+<li>Womens Style <br></li>
+<li>Genuine Top Grain Premier Leather <br></li>
+<li>Rich Color Tones <br></li>
+<li>Straps lined with 2000 lb test nylon <br></li>
+<li>Guaranteed for the Life of the Sole - Non-slip sole<br></li>
+</ul>]]></value>
+            </property>
+        </properties>
+        <stock>
+            <is_saleable>1</is_saleable>
+            <backorders>0</backorders>
+            <use_stock>1</use_stock>
+            <stock_quantity>4675</stock_quantity>
+            <minimum_order_quantity>1</minimum_order_quantity>
+            <maximum_order_quantity>10000</maximum_order_quantity>
+            <availability_text><![CDATA[In stock]]></availability_text>
+        </stock>
+        <identifiers>
+            <identifier type="SKU"><![CDATA[ana]]></identifier>
+        </identifiers>
+        <tags>
+            <tag><![CDATA[womens]]></tag>
+            <tag><![CDATA[sandal]]></tag>
+            <tag><![CDATA[leather]]></tag>
+            <tag><![CDATA[anashria]]></tag>
+        </tags>
+        <relations>
+            <relation type="upsell">
+                <uid>83</uid>
+            </relation>
+        </relations>
+        <attribute_groups>
+            <attribute_group uid="502"><![CDATA[Shoe Size]]></attribute_group>
+        </attribute_groups>
+        <inputs/>
+        <display_type>select</display_type>
+    </item>
+</items>

@@ -3,6 +3,7 @@
 namespace Algm\LargeXmlReader\Xml;
 
 use Exception;
+use Generator;
 use Prewk\XmlStringStreamer;
 
 class Reader
@@ -10,14 +11,14 @@ class Reader
     /**
      * XmlReader Instance
      *
-     * @var XmlReader
+     * @var XmlStringStreamer
      */
     protected $xml;
 
     /**
      * Constructor
      *
-     * @param \Prewk\XmlStringStreamer $xml
+     * @param XmlStringStreamer $xml
      */
     public function __construct(XmlStringStreamer $xml)
     {
@@ -31,59 +32,66 @@ class Reader
      *
      * @param resource $stream
      * @param int $depth
+     * @param array $options
      * @return self
+     * @throws Exception
      */
-    public static function openStream($stream, int $depth = 2): self
+    public static function openStream($stream, int $depth = 2, array $options = []): self
     {
         if (!is_resource($stream)) {
             throw new Exception('Invalid resource passed to openStream');
         }
 
-        $xml = XmlStringStreamer::createStringWalkerParser($stream, [
+        $parserOptions = array_merge(static::getOptions($options), [
             'captureDepth' => $depth,
         ]);
+
+        $xml = XmlStringStreamer::createStringWalkerParser($stream, $parserOptions);
 
         return new Reader($xml);
     }
 
     /**
      * Returns an instance of the reader from the passed stream that
-     * iterates throug the nodes that have the passed tag.
+     * iterates through the nodes that have the passed tag.
      *
      * @param resource $stream
      * @param string $tag
-     *
+     * @param array $options
      * @return self
+     * @throws Exception
      */
-    public static function openUniqueNodeStream($stream, string $tag): self
+    public static function openUniqueNodeStream($stream, string $tag, array $options = []): self
     {
         if (!is_resource($stream)) {
             throw new Exception('Invalid resource passed to openStream');
         }
 
-        $xml = XmlStringStreamer::createUniqueNodeParser($stream, [
+        $parserOptions = array_merge(static::getOptions($options), [
             'uniqueNode' => $tag,
         ]);
+
+        $xml = XmlStringStreamer::createUniqueNodeParser($stream, $parserOptions);
 
         return new Reader($xml);
     }
 
     /**
-     * Iterate through the xml document and execute a function for each node.
+     * Iterate through the xml document and return an array for each node.
      * If you set a limit, the reader will stop after that number of nodes read.
      *
-     * @param callable $callback
+     * Warning: Recursive tags are not supported!
+     *
      * @param int $limit
      *
-     * @return self
+     * @return Generator
      */
-    public function process(callable $callback, int $limit = null): self
+    public function process(int $limit = null): Generator
     {
         $read = 0;
         while ($node = $this->xml->getNode()) {
-            $xmlElement = simplexml_load_string($node);
-            $data = json_decode(json_encode((array) $xmlElement), 1);
-            $callback($data);
+            $xmlElement = simplexml_load_string($node, null, LIBXML_NOCDATA);
+            yield json_decode(json_encode((array) $xmlElement), 1);
             $read++;
 
             if ($limit && $read >= $limit) {
@@ -91,6 +99,15 @@ class Reader
             }
         }
 
-        return $this;
+        return yield from [];
+    }
+
+    protected static function getOptions($options = []): array
+    {
+        $defaultOptions = [
+            'expectGT' => true,
+        ];
+
+        return array_merge($defaultOptions, $options);
     }
 }
