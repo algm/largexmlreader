@@ -35,9 +35,9 @@ You can use this generator as an iterator.
 ```php
 <?php
 
-$reader = $reader->process();
+$iterator = $reader->process();
 
-foreach ($reader as $nodeData) {
+foreach ($iterator as $nodeData) {
     // do something with the node
 }
 ```
