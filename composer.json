@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.0|^8.0",
+        "php": ">=7.0|>=8.0",
         "ext-xml": "*",
         "ext-json": "*",
         "ext-xmlreader": "*",
