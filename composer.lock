@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "53a78e0d7df77f39bf8a16895393e509",
+    "content-hash": "66a54f618c27e247cb7b6bba0f649c6d",
     "packages": [
         {
             "name": "prewk/xml-string-streamer",
@@ -2157,7 +2157,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.0|^8.0",
+        "php": ">=7.0|>=8.0",
         "ext-xml": "*",
         "ext-json": "*",
         "ext-xmlreader": "*",
