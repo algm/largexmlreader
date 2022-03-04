@@ -4,3 +4,5 @@ npm-debug.log
 
 tmp
 .idea
+
+.phpunit.result.cache

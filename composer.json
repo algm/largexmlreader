@@ -19,7 +19,7 @@
         "ext-xmlreader": "*",
         "ext-simplexml": "*",
         "ext-libxml": "*",
-        "prewk/xml-string-streamer": "^1.2"
+        "prewk/xml-string-streamer": "^0.14.0"
     },
     "autoload": {
         "psr-4": {
